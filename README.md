@@ -8,7 +8,7 @@ A fake admin dasboard page.
 
 **Tech Used:** HTML and CSS
 
-HTML and CSS were used to create the form. I used grid and flex to format the page
+HTML and CSS were used to create the form. I used grid and flex to format the page.
 
 # Lesson's Learned: 
 
