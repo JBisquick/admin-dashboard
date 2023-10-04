@@ -93,7 +93,7 @@ p {
 }
 
 .profile-container .profile-image,
-.trend img {
+.trending-card img {
   border-radius: 50px;
   border: solid 1px #d4d4d8;
 }
